@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS `some_data`;
+CREATE TABLE `some_data`(`id` bigint(20) NOT NULL AUTO_INCREMENT, `some_boolean` bit(1) NOT NULL, `some_date` datetime DEFAULT NULL, `some_double` double NOT NULL, `some_integer` int(11) NOT NULL, `some_text` varchar(255) DEFAULT NULL, `some_data_id` bigint(20) DEFAULT NULL, PRIMARY KEY (`id`), KEY `FKqbd6gpwt5ciqrykkwpj1lswni` (`some_data_id`))

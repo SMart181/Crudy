@@ -1,0 +1,7 @@
+com\smart181\crudy\CrudyApplication.class
+com\smart181\crudy\ServletInitializer.class
+com\smart181\crudy\model\CustomEntityRep.class
+com\smart181\crudy\repository\SomeDataRepository.class
+com\smart181\crudy\controller\SomeDataController.class
+com\smart181\crudy\model\CustomEntityRepDeserializer.class
+com\smart181\crudy\model\SomeData.class
